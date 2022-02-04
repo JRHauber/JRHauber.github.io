@@ -1,0 +1,25 @@
+body {
+    background-color: #0C1117;
+    color: white;
+}
+
+header {
+    align-content: center;
+    text-align: center;
+    color: white;
+}
+
+#github {
+    background-color: #0C1117;
+    background-image: url(github-dark.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    align-content: center;
+}
+
+.in-github {
+    color: white;
+    align-content: center;
+    text-align: center;
+}
