@@ -9,6 +9,13 @@ header {
     color: white;
 }
 
+nav {
+    background-color: #0C1117;
+    color: white;
+    text-align: center;
+    display: block;
+}
+
 #github {
     background-color: #0C1117;
     background-image: url(github-dark.png);
