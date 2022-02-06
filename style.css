@@ -17,9 +17,9 @@ nav {
     align-content: center;
 }
 
-p {
-    text-align: center;
+div {
     align-content: center;
+    text-align: center;
 }
 
 #github {
@@ -33,11 +33,6 @@ p {
 
 .in-github {
     color: white;
-    align-content: center;
-    text-align: center;
-}
-
-.center {
     align-content: center;
     text-align: center;
 }
